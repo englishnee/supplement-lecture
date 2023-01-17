@@ -11,7 +11,7 @@
 <script lang="ts">
 
 import { Component, Vue } from "vue-property-decorator";
-import { State, Action } from 'vuex-class'
+import { State, Action } from 'vuex-class';
 import BoardList from "@/components/typescript/board/BoardList.vue";
 import { Board } from '@/store'
 
